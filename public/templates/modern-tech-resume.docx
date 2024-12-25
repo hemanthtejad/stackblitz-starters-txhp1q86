@@ -1,0 +1,55 @@
+[First Name] [Last Name]
+[City, State] | [Phone] | [Email] | [LinkedIn]
+[Optional: GitHub/Portfolio]
+
+PROFESSIONAL SUMMARY
+------------------
+Results-driven software engineer with [X] years of experience in full-stack development, cloud architecture, and agile methodologies. Proven track record of delivering scalable solutions and optimizing application performance. Strong expertise in [Key Technologies] with a focus on creating robust, maintainable code.
+
+TECHNICAL SKILLS
+--------------
+• Languages: JavaScript, TypeScript, Python, Java
+• Frontend: React, Vue.js, Angular, HTML5, CSS3
+• Backend: Node.js, Express, Django, Spring Boot
+• Database: PostgreSQL, MongoDB, Redis
+• Cloud: AWS, Azure, GCP
+• Tools: Git, Docker, Kubernetes, Jenkins
+• Testing: Jest, Cypress, JUnit
+• Methodologies: Agile, Scrum, TDD
+
+PROFESSIONAL EXPERIENCE
+---------------------
+[Company Name], [Location]
+Senior Software Engineer | [Start Date] - Present
+• Led development of microservices architecture serving 1M+ daily users, improving system reliability by 99.9%
+• Implemented CI/CD pipeline reducing deployment time by 70%
+• Architected and deployed cloud-native solutions using AWS services
+• Mentored junior developers and conducted code reviews
+• Technologies used: React, Node.js, AWS, Docker
+
+[Previous Company], [Location]
+Software Engineer | [Start Date] - [End Date]
+• Developed RESTful APIs handling 500K+ daily requests
+• Optimized database queries reducing response time by 40%
+• Collaborated with cross-functional teams to deliver features
+• Technologies used: Python, Django, PostgreSQL
+
+PROJECTS
+--------
+[Project Name] | [GitHub Link]
+• Built scalable [type of application] using [technologies]
+• Implemented [key features] resulting in [measurable outcomes]
+• Deployed and maintained on [platform/infrastructure]
+
+EDUCATION
+---------
+[University Name]
+Bachelor of Science in Computer Science
+• GPA: [X.XX]
+• Relevant Coursework: Data Structures, Algorithms, Software Engineering
+
+CERTIFICATIONS
+-------------
+• AWS Certified Solutions Architect
+• Google Cloud Professional Developer
+• [Other relevant certifications]

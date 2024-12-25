@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://horizonlync.com/sitemap.xml

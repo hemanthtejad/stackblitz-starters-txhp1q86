@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HorizonLync - Career Development & Professional Training</title>
+    <meta name="description" content="Transform your career with HorizonLync's enterprise-grade training, interview preparation, resume building, and personalized mentorship programs." />
+    <meta name="keywords" content="career development, professional training, interview preparation, resume building, mentorship, job placement, career coaching, skill development" />
+    <meta name="robots" content="index, follow" />
+    <meta property="og:title" content="HorizonLync - Career Development & Professional Training" />
+    <meta property="og:description" content="Transform your career with HorizonLync's enterprise-grade training and mentorship programs." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="HorizonLync - Career Development & Professional Training" />
+    <meta name="twitter:description" content="Transform your career with HorizonLync's enterprise-grade training and mentorship programs." />
+    <script>
+      // Handle client-side routing in production
+      (function() {
+        const path = window.location.pathname;
+        if (path !== '/' && !path.includes('.')) {
+          const redirect = sessionStorage.redirect;
+          delete sessionStorage.redirect;
+          if (redirect && redirect !== location.href) {
+            history.replaceState(null, null, redirect);
+          }
+        }
+      })();
+    </script>
+    <link rel="canonical" href="https://horizonlync.com" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "HorizonLync",
+        "description": "Professional career development and training services",
+        "url": "https://horizonlync.com",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "+1-555-123-4567",
+          "contactType": "customer service",
+          "email": "contact@horizonlync.com"
+        },
+        "sameAs": [
+          "https://linkedin.com/company/horizonlync",
+          "https://twitter.com/horizonlync",
+          "https://facebook.com/horizonlync"
+        ]
+      }
+    </script>
+  </body>
+</html>
